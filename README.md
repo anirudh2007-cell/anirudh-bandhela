@@ -1,7 +1,7 @@
 
 # Lab 1: Node.js and Express Server
 
-**Deployment URL:** Pending deployment
+**Deployment URL:**(https://express-lab-server.onrender.com)
 
 ## Student Details
 
